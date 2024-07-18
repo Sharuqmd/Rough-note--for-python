@@ -1,4 +1,0 @@
-gg
-=======
- hello world 
->>>>>>> homeworkout
